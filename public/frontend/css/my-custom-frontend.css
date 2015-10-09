@@ -4,17 +4,123 @@
 
 }
 
+@font-face {
+	font-family: 'Raleway-ExtraBold';
+	src:url('../fonts/Raleway-ExtraBold.ttf') format('truetype');
 
-/*	url('frontend/fonts/Raleway-ExtraBold.ttf') format('truetype'),
-	url('frontend/fonts/Raleway-ExtraLight.ttf') format('truetype'),
-	url('frontend/fonts/Raleway-Heavy.ttf') format('truetype'),
-	url('frontend/fonts/Raleway-Light.ttf') format('truetype'),
-	url('frontend/fonts/Raleway-Medium.ttf') format('truetype'),
-	url('frontend/fonts/Raleway-Regular.ttf') format('truetype'),
-	url('frontend/fonts/Raleway-SemiBold.ttf') format('truetype'),
-	url('frontend/fonts/Raleway-Thin.ttf') format('truetype');
-	*/
-body
-{
-/*	background: red;*/
 }
+@font-face {
+	font-family: 'Raleway-Thin';
+	src:url('../fonts/Raleway-Thin.ttf') format('truetype');
+
+}
+@font-face {
+	font-family: 'Raleway-ExtraLight';
+	src:url('../fonts/Raleway-ExtraLight.ttf') format('truetype');
+
+}
+@font-face {
+	font-family: 'Raleway-Heavy';
+	src:url('../fonts/Raleway-Heavy.ttf') format('truetype');
+
+}
+@font-face {
+	font-family: 'Raleway-Light';
+	src:url('../fonts/Raleway-Light.ttf') format('truetype');
+
+}
+@font-face {
+	font-family: 'Raleway-Medium';
+	src:url('../fonts/Raleway-Medium.ttf') format('truetype');
+
+}
+@font-face {
+	font-family: 'Raleway-Regular';
+	src:url('../fonts/Raleway-Regular.ttf') format('truetype');
+
+}
+@font-face {
+	font-family: 'Raleway-SemiBold';
+	src:url('../fonts/Raleway-SemiBold.ttf') format('truetype');
+
+}
+@media (max-width: 768px) {
+  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+       margin: 10px auto ;
+   }
+
+
+
+   
+}
+
+	
+
+}
+
+.brand
+{
+	width:100% !important;
+	display: block;
+	background-color: blue;
+
+}
+
+body{
+	font-family: 'Raleway-Light', sans-serif !important;
+}
+
+
+
+.container.pulishing-container {
+	margin: 100px auto !important;
+	padding: 0px auto;
+}
+
+.pulishing-phone {
+	border-bottom: solid 1px;
+	width: 270px;
+	padding:0px;
+	margin: 10px 20px;
+	background-color: red;
+
+}
+.element{
+	width: 270px;
+	height: 270px;
+}
+
+.publicity{
+	width:100% !important;
+}
+
+.publicity-publishing
+{
+	width:500px; 
+	height:300px; 
+	background-color:blue; 
+	overflow: hidden;
+}
+
+ .publicity-content{
+	width:100% !important;
+	margin: 100px 0px;
+	display: block;
+	padding:0;
+	overflow:hidden;
+	background-color: red;
+}
+
+.publicity-img-cotent
+{
+	
+}
+.img-brand{
+	margin: 3px;
+	width: 520px !important;
+	background-color: blue;
+}
+
+
+
+

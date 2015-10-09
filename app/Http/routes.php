@@ -23,7 +23,3 @@ Route::controllers([
 ]);
 
 
-Route::get('prueba', function(){
-
-	return  View::make('frontend.prueba');
-});

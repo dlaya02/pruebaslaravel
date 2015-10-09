@@ -12,9 +12,9 @@
     <title>FlatLab Frontend | Home</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="frontend/css/bootstrap.min.css" rel="stylesheet">
-    <link href="frontend/css/theme.css" rel="stylesheet">
-    <link href="frontend/css/bootstrap-reset.css" rel="stylesheet">
+    <link href="frontend/css/bootstrap.css" rel="stylesheet">
+   <!-- <link href="frontend/css/theme.css" rel="stylesheet">
+    <link href="frontend/css/bootstrap-reset.css" rel="stylesheet">-->
     <!--external css-->
     <link href="frontend/assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
     <link rel="stylesheet" href="frontend/css/flexslider.css"/>
@@ -44,7 +44,7 @@
 <body>
     <!--header start-->
     <header class="header-frontend">
-    <h1 style="font-family: 'Raleway-Bold', sans-serif; ">  Grumpy wizards make toxic brew for the evil Queen and Jack.</h1> 
+    
         <div class="navbar navbar-default navbar-static-top">
             <div class="container">
                 <div class="navbar-header">
@@ -55,7 +55,7 @@
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
+                        <li class="active"><a href="index.html"> wizards make toxic </a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="services.html">Service</a></li>
                         <li class="dropdown ">
