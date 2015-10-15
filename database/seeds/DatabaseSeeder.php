@@ -21,6 +21,9 @@ class DatabaseSeeder extends Seeder {
 		$this->call(PhoneSystemTableSeeder::class);
 		$this->call(PhoneHasBrandTableSeeder::class);
 		$this->call(PhoneHasSystemTableSeeder::class);
+		$this->call(SupplierTableSeeder::class);
+		$this->call(SupplierBannerTableSeeder::class);
+		//to load publishing you have to already have user and supplier table 
 		$this->call(PublishingTableSeeder::class);
 		$this->call(PublishingImgTableSeeder::class);
 		$this->call(PublishingHasPhoneTableSeeder::class);

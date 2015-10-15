@@ -46,17 +46,12 @@
 }
 @media (max-width: 768px) {
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-       margin: 10px auto ;
+       	margin: 10px auto !important;
    }
-
-
-
    
 }
 
-	
 
-}
 
 .brand
 {
@@ -82,8 +77,14 @@ body{
 	width: 270px;
 	padding:0px;
 	margin: 10px 20px;
-	background-color: red;
+	display: block;
+	
 
+}
+
+.pulishing-phone.title-publishing {
+display: block;
+margin-top: 100px;
 }
 .element{
 	width: 270px;

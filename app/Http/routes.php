@@ -12,7 +12,7 @@
 */
 
 
-Route::get('/', 'frontend\WelcomeController@index');
+Route::get('/', 'frontend\IndexController@index');
 
 Route::get('home', 'HomeController@index');
 
@@ -21,5 +21,7 @@ Route::controllers([
 	'password' => 'Auth\PasswordController',
 	
 ]);
+
+
 
 

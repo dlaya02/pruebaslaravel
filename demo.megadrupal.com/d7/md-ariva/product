@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Shop | Ariva</title>
+          <meta name="msapplication-tap-highlight" content="no"/>
+  <meta name="viewport" content="user-scalable=0, width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, minimal-ui"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_FQZzEpZhXHNNERcUUTWWvVJDfl0-5CuDHgGFZRZzsEA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_ObffQK8EctYLHicByGy3y6LRvqlTvBWlZOgZwKyPBi4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_Yz_Cs_wolH4ArTG-vS6_4QJEtTVSCy0OvY8hoMCsChg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_voMduh-EB0CpYTLTC88LiQ4EahujSoi4dKA0-wB7vqM.css" media="all" />
+
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_yHxtpipowVl8EpjduXvUs2FrKfNRnnfxYrcYvhuIrok.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_vw8R8nr3DgFenjCrUC-_1ZfDVLww790nnRMyiN8CPDA.css" media="all" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/css/ie7.css?nv1bkj" media="all" />
+<![endif]-->
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js"></script>
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_bYkKNL44pTTgU6i5l3hkUkmW_DCotYlWbTUmWeILXls.js"></script>
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_Ad20cKyKrJn_zy3xIlTeSmcPKBXFmSJhUqFmnltjah0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/d7\/md-ariva\/","pathPrefix":"","ajaxPageState":{"theme":"md_ariva","theme_token":"3PI-plzMwNib3Xcq2MDnX7gaLPvR86iIhh4HhCMOD84","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.slider.min.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/auto-submit.js":1,"sites\/all\/modules\/contrib\/search_api_ranges\/jquery.numeric.js":1,"sites\/all\/modules\/contrib\/search_api_ranges\/search_api_ranges.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/facetapi\/facetapi.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.flexslider.js":1,"sites\/all\/modules\/custom\/md_themesite\/special\/block_view\/js\/background_content.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/bootstrap.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.appear.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.cubeportfolio.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.fancybox.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/waypoints.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.h5validate.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.lightSlider.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/modernizr.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/owl.carousel.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/select2.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.countTo.js":1,"sites\/all\/themes\/md_ariva\/js\/portfolio.js":1,"sites\/all\/themes\/md_ariva\/js\/custom.js":1,"sites\/all\/themes\/md_ariva\/js\/md_ariva.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/fontello\/css\/fontello.fix.css":1,"public:\/\/icon\/fontello\/ariva\/css\/ariva.css":1,"public:\/\/icon\/fontello\/ariva\/css\/animation.css":1,"public:\/\/icon\/fontello\/ariva\/css\/ariva-ie7.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/bootstrap.min.css":1,"sites\/all\/modules\/contrib\/fivestar\/css\/fivestar.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/cubeportfolio.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/lightSlider.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/owl.carousel.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/select2.css":1,"sites\/all\/themes\/md_ariva\/css\/style.css":1,"sites\/all\/themes\/md_ariva\/css\/md_ariva.css":1,"sites\/all\/themes\/md_ariva\/css\/md_awecontent.css":1,"sites\/all\/themes\/md_ariva\/css\/ie7.css":1}},"arivaSettings":{"path":"sites\/all\/modules\/custom\/md_ac_ariva"},"flick":{"flick_setting_id":"27838818@N04","flick_setting_numberphoto":"6"},"urlIsAjaxTrusted":{"\/d7\/md-ariva\/product":true},"facetapi":{"facets":[{"id":"facetapi-facet-search-apiproduct-index-block-field-product-storecommerce-priceamount-decimal","searcher":"search_api@product_index","realmName":"block","facetName":"field_product_store:commerce_price:amount_decimal","queryType":null,"widget":"search_api_ranges_ui_slider","showMoreText":"Show more","showFewerText":"Show fewer"}]}});
+//--><!]]>
+</script>
+  <style type="text/css">
+            body {}
+a:link, #node-title a {}
+a:hover, #node-title a:hover {}
+a:visited, #node-title a:visited {}
+a:focus, a:active, #node-title a:focus, #node-title a:active {}
+      </style>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-product " >
+  <div id="loader-wrapper">
+          <div class="preloader loading">
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+          </div>
+      </div>  
+    
+<div id="page-wrapper">
+
+  <header class="header-basic">
+    <div class="main-header">
+     <div class="container">
+                  <div class="logo">
+          <h1><a href="/d7/md-ariva/" title="Home" rel="home" id="logo">
+            <img src="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/logo.png" alt="Home" />
+          </a></h1>
+        </div>
+        
+                  <a href="javascript:void(0)" class="menubar menubar-default">
+                  <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <div class="social-top">
+              
+	<div id="block-md-block-custom-mls-header" class="block block-md-block-custom">
+	  			  		    <ul class="social"><li><a href="#" target="_blank"><i class="icon fontello icon-twitter" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-behance" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-dribbble" aria-hidden="true"></i></a></li></ul>	</div>
+
+        </div>
+                              <nav class="ts-default-menu">
+                <ul class="default-nav"><li class="first expanded dropdown"><a href="/d7/md-ariva/" title="">Home</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/full-scrreen-slider">Home Fullscreen Slider</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-freelancer">Home Freelancer</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-video-background">Menu Video Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-pattern-background">Home Pattern Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-background-image">Home Image Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-parrallax-slide">Home Parallax Slide Image</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-dropdown-menu">Home Dropdown Menu</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/menu-hidden-onload">Menu Hidden Onload</a></li>
+</ul></li>
+<li class="leaf"><a href="/d7/md-ariva/#history" title="">History</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#portfolio" title="">Work</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#team" title="">Team</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#pricing-table" title="">Pricing</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#client" title="">Client</a></li>
+<li class="expanded dropdown"><a href="/d7/md-ariva/blog" title="">Blog</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/blog">Blog</a></li>
+<li class="leaf"><a href="/d7/md-ariva/node/1">Single Post</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/page-404" title="">Page 404</a></li>
+</ul></li>
+<li class="expanded active-trail dropdown active"><a href="/d7/md-ariva/product" title="" class="active-trail active">Shop</a><ul class="dropdown-menu"><li class="first leaf active-trail active"><a href="/d7/md-ariva/product" class="active-trail active">Product</a></li>
+<li class="leaf"><a href="/d7/md-ariva/node/9">Product Detail</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/cart" title="">Cart</a></li>
+</ul></li>
+<li class="last leaf"><a href="/d7/md-ariva/#contact" title="">Contact</a></li>
+</ul>            </nav>
+                        </div>
+
+          </div>
+      </header>
+
+<div id="highlighted">    
+	
+		
+		<section id="block-block-2" class="banner-blog parallax-section data_background block block-block">
+						
+				      <div class="overlay" style="background-color: rgba(0, 0, 0, 0.15);"></div>
+	    
+	        <div class="banner-content text-center">
+		        			            <h1>Our Shop</h1>
+		          	            <hr>
+							<p>Our perspective on digital (and other things)</p>
+	        </div>
+	  </section>
+	
+</div>
+  <div id="main-wrapper" class="clearfix">
+    <div class="md-body">
+      <div class="main-content">
+              <div class="container">
+                          <div class="row">
+            <div class="col-md-9 col-sm-8 col-xs-12">
+              <div id="content" class="column">
+                <a id="main-content"></a>
+                                                <div id="tabs-menu" class="tabs"></div>                                                    
+	<div id="block-system-main" class="block block-system">
+	  			  
+	  <div class="content">
+	    <div class="view view-product-filter view-id-product_filter view-display-id-page view-dom-id-2484268fb84bb09eb12047c7d827caf7">
+      	
+				<div class="head-shop clearfix">
+				<div class="section-title text-left">
+					<h3>Shop</h3>
+					<p>Showing 1 - 8 of 8</p>
+				</div>
+				<form class="ctools-auto-submit-full-form" action="/d7/md-ariva/product" method="get" id="views-exposed-form-product-filter-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+		
+						<div class="fillter-show">
+						<div class="form-item form-type-select form-item-sorting"><div class="form-elements">
+ <select id="sort_views" name="sorting" class="form-select"><option value="created|DESC" selected="selected">Default Sorting</option><option value="field_product_store_commerce_price_amount_decimal|ASC">Lowest Price</option><option value="field_product_store_commerce_price_amount_decimal|DESC">Highest Price</option></select>
+</div></div>
+				</div>
+		
+
+
+						<div class="views-exposed-widget views-submit-button">
+				<input class="ctools-use-ajax ctools-auto-submit-click js-hide link-button ts-button form-submit" type="submit" id="edit-submit-product-filter" name="" value="Search" />		</div>
+		</div>
+</div></form>			</div>	
+	
+  
+      <div class="row">
+          <div id="node-16" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/16" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-8" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-8" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="8" />
+<input type="hidden" name="form_build_id" value="form-BHokXpMETfaA39FSZ3UFynUKvoxVSn6q6clPMedipZo" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_8" />
+<div id="edit-line-item-fields" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/16"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/16">Ninja happy</a></h4>
+      <div class="on_price">
+                <span class="ts-price-final">
+		    	$17.00	</span>
+      </div>
+    </div>
+  </div>
+    <div id="node-15" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/15" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-7" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-7" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="7" />
+<input type="hidden" name="form_build_id" value="form-ppJGIR47S7mTD3LMtAD6h01Yqp4Zq0Gvh-SZYvfhkhs" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_7" />
+<div id="edit-line-item-fields--2" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit--2" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/15"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/15">School Ninja</a></h4>
+      <div class="on_price">
+                <span class="ts-price-final">
+		    	$21.00	</span>
+      </div>
+    </div>
+  </div>
+    <div id="node-14" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/14" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-6" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-6" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="6" />
+<input type="hidden" name="form_build_id" value="form-vdAHtWAeTsVHQUoHopX_Jk7pCMUziseNcTms5Jfo0oM" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_6" />
+<div id="edit-line-item-fields--3" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit--3" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/14"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/14">Patient Ninja</a></h4>
+      <div class="on_price">
+                <span class="ts-price-final">
+		    	$25.00	</span>
+      </div>
+    </div>
+  </div>
+    <div id="node-13" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/13" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+                  <a class="ts-sale" href="">SALE</a>
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-5" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-5" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="5" />
+<input type="hidden" name="form_build_id" value="form-L3TWFllKlfveP97e64noDhrWb-pqHpZh37Q-xO6fBbU" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_5" />
+<div id="edit-line-item-fields--4" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit--4" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/13"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/13">Ninja Silhouette</a></h4>
+      <div class="on_price">
+                  <span class="ts-price">
+		    	$24.00	</span>
+                <span class="ts-price-final">
+		    	$18.00	</span>
+      </div>
+    </div>
+  </div>
+    <div id="node-12" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/12" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-4" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-4" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="4" />
+<input type="hidden" name="form_build_id" value="form-HBQWL79zumHs61wcmDGwo_XqbwsxnCvqGHAQ-cee_c0" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_4" />
+<div id="edit-line-item-fields--5" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit--5" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/12"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/12">Happy Ninja</a></h4>
+      <div class="on_price">
+                <span class="ts-price-final">
+		    	$9.00	</span>
+      </div>
+    </div>
+  </div>
+    <div id="node-11" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/11" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-3" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-3" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="3" />
+<input type="hidden" name="form_build_id" value="form-eVbpzj8VvaQUkmc9Qn5d8BYTEAxD_oVRKaPhMByP2SM" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_3" />
+<div id="edit-line-item-fields--6" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit--6" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/11"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/11">Woo Album</a></h4>
+      <div class="on_price">
+                <span class="ts-price-final">
+		    	$18.00	</span>
+      </div>
+    </div>
+  </div>
+    <div id="node-10" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/10" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-2" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-2" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="2" />
+<input type="hidden" name="form_build_id" value="form-kvbyGzSQuCbPZDVGagt51xFbQ6YeO0Iab2dbcW7mXgs" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_2" />
+<div id="edit-line-item-fields--7" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit--7" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/10"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/10">Woo Single</a></h4>
+      <div class="on_price">
+                <span class="ts-price-final">
+		    	$16.00	</span>
+      </div>
+    </div>
+  </div>
+    <div id="node-9" class="node node-shop-product node-teaser product-item col-md-4 col-lg-4 col-sm-4 col-xs-12 clearfix" about="/d7/md-ariva/node/9" typeof="sioc:Item foaf:Document">
+    <div class="product_teaser">
+      <div class="ts-product-top">
+                  <a class="ts-sale" href="">SALE</a>
+         
+        <div class="product-hover">
+                      <div class="ts-add-cart">
+              <div class="field field-name-field-product-store field-type-commerce-product-reference field-label-hidden"><div class="field-items"><div class="field-item even"><form class="commerce-add-to-cart commerce-cart-add-to-cart-form-1" action="/d7/md-ariva/product" method="post" id="commerce-cart-add-to-cart-form-1" accept-charset="UTF-8"><div><input type="hidden" name="product_id" value="1" />
+<input type="hidden" name="form_build_id" value="form-FawATFIs74-c0f89re7TZBlAqO_TBFjPSipqnI77_c4" />
+<input type="hidden" name="form_id" value="commerce_cart_add_to_cart_form_1" />
+<div id="edit-line-item-fields--8" class="form-wrapper"></div><input type="hidden" name="quantity" value="1" />
+<input type="submit" id="edit-submit--8" name="op" value="Add to cart" class="link-button ts-button form-submit" /></div></form></div></div></div>            </div>
+                    <a class="ts-product-detail" href="/d7/md-ariva/node/9"></a>
+        </div>
+        <figure><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/product_teaser/public/img-product1.jpg?itok=Af2pjgJm" width="240" height="270" alt="product" title="product" /></div></div></div></figure>
+      </div>
+      <h4 class="product-title"><a class="ts-product-title" href="/d7/md-ariva/node/9">Flying ninja</a></h4>
+      <div class="on_price">
+                  <span class="ts-price">
+		    	$12.00	</span>
+                <span class="ts-price-final">
+		    	$15.00	</span>
+      </div>
+    </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>	  </div>
+	</div>
+                              </div>
+            </div>
+            <div id="sidebar-first" class="sidebar-right col-md-3 col-sm-4 col-xs-12">
+                  
+
+	<div id="block-search-form" class="sidebar_widget widget_search block block-search">
+	  			  
+	  <div class="blog-search">
+	    <form action="/d7/md-ariva/product" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form"><div class="form-elements">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" placeholder="Search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="input-control" />
+</div></div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--10" name="op" value="Search" class="link-button ts-button form-submit" /></div><input type="hidden" name="form_build_id" value="form-9AM7nNpH7a78wIxksdzmg8rI5mdCVtiizrCl8O7Hn-Q" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>	  </div>
+	</div>
+
+
+	<div id="block-facetapi-qbcy3yo55xk7tm2eylyvdasng8qgpj0j" class="sidebar_widget block block-facetapi">
+	  					  <h2 class="sidebar_title">Filter by price</h2>
+			  
+	  <div class="content">
+	    <div class="search-api-ranges-widget"><form action="/d7/md-ariva/product" method="post" id="search-api-ranges-block-slider-view-form-field-product-storecommerce-priceamount-decimal" accept-charset="UTF-8"><div>
+<div class="form-item form-type-textfield form-item-range-from"><div class="form-elements">
+  <label for="edit-range-from">From </label>
+ <input type="text" placeholder="From" id="edit-range-from" name="range-from" value="9" size="10" maxlength="128" class="input-control" />
+</div></div>
+<div class="form-item form-type-textfield form-item-range-to"><div class="form-elements">
+  <label for="edit-range-to">To </label>
+ <input type="text" placeholder="To" id="edit-range-to" name="range-to" value="25" size="10" maxlength="128" class="input-control" />
+</div></div>
+<input type="hidden" name="range-min" value="9" />
+<input type="hidden" name="range-max" value="25" />
+
+<div class="range-slider"></div><div class="ts-submit">
+  <input class="submit-filter link-button ts-button form-submit" type="submit" id="edit-submit--11" name="op" value="FILTER" />  <span>PRICE: 9&mdash; 25</span>
+</div>
+
+<div style="display: none">
+  <p class="text-range"> ranges from 9 to 25</p><input type="hidden" name="path" value="product" />
+<input type="hidden" name="range-field" value="field_product_store%3Acommerce_price%3Aamount_decimal" />
+<input type="hidden" name="delay" value="1500" />
+<input type="hidden" name="form_build_id" value="form-Z3Bdalc-Ln8GN_Oa1giF779AQT5CFnWfx6vJYKcAAR8" />
+<input type="hidden" name="form_id" value="search_api_ranges_block_slider_view_form_field_product_store:commerce_price:amount_decimal" />
+</div>
+</div></form></div>	  </div>
+	</div>
+
+
+	<div id="block-views-categories-product" class="sidebar_widget widget_categories block block-views">
+	  					  <h2 class="sidebar_title">Categories</h2>
+			  
+	  <div class="content">
+	    <div class="view view-categories view-id-categories view-display-id-product view-dom-id-abd4605f9eef4782cf41cfcffd5d1d57">
+        
+  
+  
+      <div class="view-content">
+          <ul>          <li class="cat-item">  
+          <a href="/d7/md-ariva/taxonomy/term/15">Jackets</a>  </li>
+          <li class="cat-item">  
+          <a href="/d7/md-ariva/taxonomy/term/16">Jean</a>  </li>
+          <li class="cat-item">  
+          <a href="/d7/md-ariva/taxonomy/term/17">Shoes</a>  </li>
+          <li class="cat-item">  
+          <a href="/d7/md-ariva/taxonomy/term/13">Shorts</a>  </li>
+          <li class="cat-item">  
+          <a href="/d7/md-ariva/taxonomy/term/14">T-shirts</a>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>	  </div>
+	</div>
+
+
+	<div id="block-views-product-five-rate-block" class="sidebar_widget shoping-cart-widget block block-views">
+	  					  <h2 class="sidebar_title">Top Rated Products</h2>
+			  
+	  <div class="content">
+	    <div class="view view-product-five-rate view-id-product_five_rate view-display-id-block view-dom-id-b19ac88980a0beafc94def1338555c74">
+        
+  
+  
+      <div class="view-content">
+          <ul class="product_list_widget">          <li class="">  
+          <a href="/d7/md-ariva/node/16">
+	<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/thumb/public/img-product1.jpg?itok=JrYYXAmC" width="90" height="90" alt="product" title="product" />
+</a>
+<div class="widget-cart-title-product">
+	<a href="/d7/md-ariva/node/16">Ninja happy</a> 
+	<div class="rated-product"><div class="clearfix fivestar-average-stars"><div class="fivestar-static-item"><div class="form-item form-type-item"><div class="form-elements">
+ <div class="fivestar-default"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<div class="description"><div class="fivestar-summary fivestar-summary-"></div></div>
+</div></div>
+</div></div></div>
+	<span class="amount">$17.00</span>	
+</div>  </li>
+          <li class="">  
+          <a href="/d7/md-ariva/node/15">
+	<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/thumb/public/img-product1.jpg?itok=JrYYXAmC" width="90" height="90" alt="product" title="product" />
+</a>
+<div class="widget-cart-title-product">
+	<a href="/d7/md-ariva/node/15">School Ninja</a> 
+	<div class="rated-product"><div class="clearfix fivestar-average-stars"><div class="fivestar-static-item"><div class="form-item form-type-item"><div class="form-elements">
+ <div class="fivestar-default"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<div class="description"><div class="fivestar-summary fivestar-summary-"></div></div>
+</div></div>
+</div></div></div>
+	<span class="amount">$21.00</span>	
+</div>  </li>
+          <li class="">  
+          <a href="/d7/md-ariva/node/14">
+	<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/thumb/public/img-product1.jpg?itok=JrYYXAmC" width="90" height="90" alt="product" title="product" />
+</a>
+<div class="widget-cart-title-product">
+	<a href="/d7/md-ariva/node/14">Patient Ninja</a> 
+	<div class="rated-product"><div class="clearfix fivestar-average-stars"><div class="fivestar-static-item"><div class="form-item form-type-item"><div class="form-elements">
+ <div class="fivestar-default"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<div class="description"><div class="fivestar-summary fivestar-summary-"></div></div>
+</div></div>
+</div></div></div>
+	<span class="amount">$25.00</span>	
+</div>  </li>
+          <li class="">  
+          <a href="/d7/md-ariva/node/13">
+	<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/thumb/public/img-product1.jpg?itok=JrYYXAmC" width="90" height="90" alt="product" title="product" />
+</a>
+<div class="widget-cart-title-product">
+	<a href="/d7/md-ariva/node/13">Ninja Silhouette</a> 
+	<div class="rated-product"><div class="clearfix fivestar-average-stars"><div class="fivestar-static-item"><div class="form-item form-type-item"><div class="form-elements">
+ <div class="fivestar-default"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div>
+<div class="description"><div class="fivestar-summary fivestar-summary-"></div></div>
+</div></div>
+</div></div></div>
+	<span class="amount">$18.00</span>	
+</div>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>	  </div>
+	</div>
+
+
+	<div id="block-views-categories-product-tags" class="sidebar_widget widget_tag_cloud widget_tag_shop block block-views">
+	  					  <h2 class="sidebar_title">Tags Cloud</h2>
+			  
+	  <div class="content">
+	    <div class="view view-categories view-id-categories view-display-id-product_tags view-dom-id-4fdfb22a73708658b1d2cb6ce58ea288">
+        
+  
+  
+      <div class="view-content">
+      <div class="tagcloud">
+	      
+          <a href="/d7/md-ariva/taxonomy/term/18">Compellingly</a>  	      
+          <a href="/d7/md-ariva/taxonomy/term/19">Empower</a>  	      
+          <a href="/d7/md-ariva/taxonomy/term/20">Life</a>  	</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>	  </div>
+	</div>
+
+            </div>
+          </div>
+                      </div>
+            </div>
+    </div>
+  </div>
+    <footer>
+      <div class="container">
+              
+	<div id="block-md-block-custom-mls-footer" class="block block-md-block-custom">
+	  			  		    <ul class="social-footer"><li><a href="#" target="_blank"><i class="icon fontello icon-twitter" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-behance" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-tumblr" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-dribbble" aria-hidden="true"></i></a></li></ul><p class="copyright">COPYRIGHT &copy; Megadrupal 2014</p>	</div>
+
+      </div>
+  </footer>
+
+</div>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20585382-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
+
+<!-- Page cached by Boost @ 2015-10-15 09:03:50, expires @ 2015-10-16 09:03:50, lifetime 1 day -->

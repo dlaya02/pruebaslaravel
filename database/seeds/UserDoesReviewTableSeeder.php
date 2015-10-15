@@ -13,7 +13,7 @@ class UserDoesReviewTableSeeder extends Seeder
     public function run()
     {
         $faker  = Faker::create();
-        $result = DB::table('publishing')->select('id_user')->get();
+        $result = DB::table('user_does_publishing')->select('id_user')->get();
         //get user ids in array
         $arrayUsers = array();
         

@@ -1,0 +1,30 @@
+  <div id="node-24" class="single-portfolio-2 node node-portfolio clearfix" about="/d7/md-ariva/node/24" typeof="sioc:Item foaf:Document">
+      <div class="portfolio-img">
+        <img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio_full/public/portfolio-img4.jpg?itok=XL48i07Z" width="1900" height="821" alt="portfolio" title="portfolio" />      </div>
+      <div class="detail-portfolio">
+        <div class="container">
+          <div class="content-portfolio text-center">
+            <div class="section-title text-center">
+              <h3>To-Do Dashboard</h3>
+              <hr>
+            </div>
+            <div class="meta-portfolio text-center">
+              <span class="date">Aug 10, 2015</span>
+                              <ul class="social">
+                                  <li><a href="/d7/md-ariva/%23" target="_blank"><i class="icon fontello icon-twitter" aria-hidden="true"></i></a></li>
+                                  <li><a href="/d7/md-ariva/%23" target="_blank"><i class="icon fontello icon-facebook" aria-hidden="true"></i></a></li>
+                                  <li><a href="/d7/md-ariva/%23" target="_blank"><i class="icon fontello icon-gplus" aria-hidden="true"></i></a></li>
+                                </ul>
+                          </div>
+            <div class="content-text">
+              Dramatically morph visionary total linkage rather than long-term high-impact processes. Appropriately re-engineer progressive methodologies through high standards in paradigms. Distinctively brand intuitive strategic theme areas.Dramatically morph visionary total linkage rather than long-term high-impact processes. Appropriately re-engineer progressive methodologies through high standards in paradigms. Distinctively brand intuitive strategic theme areas.            </div>
+            <a href="#" target="_blank" class="ts-button button-portfolio">Visit Website</a>
+          </div>
+          <div class="list-images">
+            <div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio_large/public/portfolio7.png?itok=2PvqG3NQ" width="1144" height="609" alt="portfolio" title="portfolio" /></div><div class="field-item odd"><img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio_large/public/portfolio8.png?itok=CIwEkdp4" width="1144" height="609" alt="portfolio" title="portfolio" /></div></div></div>          </div>
+        </div>
+      </div>
+  </div>
+  
+  
+<!-- Page cached by Boost @ 2015-10-15 15:48:52, expires @ 2015-10-16 15:48:52, lifetime 1 day -->

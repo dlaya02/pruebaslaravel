@@ -1,0 +1,1404 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/d7/md-ariva/node/33" />
+<link rel="canonical" href="/d7/md-ariva/home-video-background" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Home Video Background | Ariva</title>
+          <meta name="msapplication-tap-highlight" content="no"/>
+  <meta name="viewport" content="user-scalable=0, width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, minimal-ui"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_FQZzEpZhXHNNERcUUTWWvVJDfl0-5CuDHgGFZRZzsEA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_JcqKIYxTO31LOuyic-wWn48O_xm8ZunMrSJGvjzxubw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_Yz_Cs_wolH4ArTG-vS6_4QJEtTVSCy0OvY8hoMCsChg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_I3tZvM5jHemznjASOhVkrE8BF90uogw7_xIi3At4B2E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700&amp;nv1bkj" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+@media (min-width:1200px){.awe-section .container{width:1170px;}}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_tmnzjmMHfyRvML215REYaPWfjo3sp_Jx8m5ZWIZ-AoQ.css" media="all" />
+
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_yHxtpipowVl8EpjduXvUs2FrKfNRnnfxYrcYvhuIrok.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_GPb79kYtkM-HfzTuF1B32DFMlwvanvXiSG1ajMme-GU.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+
+.awe-section-33-0-0{}
+
+#history{background-color:rgb(255,255,255);background-color:#ffffff;}#history{padding-top:85px;padding-left:0px;padding-bottom:85px;padding-right:0px;}
+.awe-section-33-1-0{}
+.awe-section-33-1-0-0-welcome_content{}
+.awe-section-33-2{background-color:rgb(240,240,240);background-color:#f0f0f0;}
+.awe-section-33-2-0{padding-top:80px;padding-left:0px;padding-bottom:40px;padding-right:0px;}
+
+.awe-section-33-2-0-0-carousel-0{}
+.awe-section-33-2-0-0-carousel-0-0-services{color:#7e7d7d;color:rgb(126,125,125);background:#ffffff;background:rgb(255,255,255);}.awe-section-33-2-0-0-carousel-0-0-services:hover{color:#ffffff;color:rgb(255,255,255);background-color:#5ed9e7;background-color:rgb(94,217,231);}
+.awe-section-33-2-0-0-carousel-0{}
+.awe-section-33-2-0-0-carousel-0-0-services{color:#7e7d7d;color:rgb(126,125,125);background:#ffffff;background:rgb(255,255,255);}.awe-section-33-2-0-0-carousel-0-0-services:hover{color:#ffffff;color:rgb(255,255,255);background-color:#5ed9e7;background-color:rgb(94,217,231);}
+.awe-section-33-2-0-0-carousel-0{}
+.awe-section-33-2-0-0-carousel-0-0-services{color:#7e7d7d;color:rgb(126,125,125);background:#ffffff;background:rgb(255,255,255);}.awe-section-33-2-0-0-carousel-0-0-services:hover{color:#ffffff;color:rgb(255,255,255);background-color:#5ed9e7;background-color:rgb(94,217,231);}
+.awe-section-33-2-0-0-carousel-0{}
+.awe-section-33-2-0-0-carousel-0-0-services{color:#7e7d7d;color:rgb(126,125,125);background:#ffffff;background:rgb(255,255,255);}.awe-section-33-2-0-0-carousel-0-0-services:hover{color:#ffffff;color:rgb(255,255,255);background-color:#5ed9e7;background-color:rgb(94,217,231);}
+.awe-section-33-3{background-color:rgb(255,255,255);background-color:#ffffff;}
+.awe-section-33-3-0{border-top:;border-left:0 solid;border-bottom:1px solid #eaeaea;border-right:0 solid;padding-top:85px;padding-left:0px;padding-bottom:85px;padding-right:0px;}
+
+.awe-section-33-3-0-0-carousel-0{}
+.awe-section-33-3-0-0-carousel-0-0-feature{}
+.awe-section-33-3-0-0-carousel-0{}
+.awe-section-33-3-0-0-carousel-0-0-feature{}
+.awe-section-33-4{background-color:rgb(255,255,255);background-color:#ffffff;}
+.awe-section-33-4-0{padding-top:85px;padding-left:0px;padding-bottom:85px;padding-right:0px;}
+
+.awe-section-33-4-0-0-carousel-0{}
+.awe-section-33-4-0-0-carousel-0-0-feature{}
+.awe-section-33-4-0-0-carousel-0{}
+.awe-section-33-4-0-0-carousel-0-0-feature{}
+.awe-section-33-4-0-0-carousel-0{}
+.awe-section-33-4-0-0-carousel-0-0-feature{}
+#funfact{background-color:rgb(240,240,240);background-color:#f0f0f0;}#funfact{padding-top:80px;padding-left:0px;padding-bottom:80px;padding-right:0px;}
+.awe-section-33-5-0{}
+.awe-section-33-5-0-0-funfact{background-color:;cursor:pointer;}.awe-section-33-5-0-0-funfact:hover{background-color:!important;}.awe-section-33-5-0-0-funfact:hover span,.awe-section-33-5-0-0-funfact:hover h5{color:!important;}
+.awe-section-33-5-1{}
+.awe-section-33-5-1-0-funfact{background-color:;cursor:pointer;}.awe-section-33-5-1-0-funfact:hover{background-color:!important;}.awe-section-33-5-1-0-funfact:hover span,.awe-section-33-5-1-0-funfact:hover h5{color:!important;}
+.awe-section-33-5-2{}
+.awe-section-33-5-2-0-funfact{background-color:;cursor:pointer;}.awe-section-33-5-2-0-funfact:hover{background-color:!important;}.awe-section-33-5-2-0-funfact:hover span,.awe-section-33-5-2-0-funfact:hover h5{color:!important;}
+.awe-section-33-5-3{}
+.awe-section-33-5-3-0-funfact{background-color:;cursor:pointer;}.awe-section-33-5-3-0-funfact:hover{background-color:!important;}.awe-section-33-5-3-0-funfact:hover span,.awe-section-33-5-3-0-funfact:hover h5{color:!important;}
+.awe-section-33-6{background-color:rgb(255,255,255);background-color:#ffffff;}
+.awe-section-33-6-0{}
+
+#team{padding-top:85px;padding-left:0px;padding-bottom:0px;padding-right:0px;}
+.awe-section-33-7-0{}
+.awe-section-33-7-0-0-header{text-align:center;}
+.awe-section-33-7-0-1-divider .line-divider{border-top-style:solid;border-top-color:rgb(0,0,0);border-top-color:#000000;border-top-width:2px;}.awe-section-33-7-0-1-divider{padding-top:10px;padding-left:22.5px;padding-bottom:10px;padding-right:22.5px;width:120px;}
+.awe-section-33-7-0-2-header{text-align:center;}
+.awe-section-33-7-1{}
+
+.awe-section-33-7-2{}
+
+.awe-section-33-7-3{}
+
+#pricing-table{background-color:rgb(255,255,255);background-color:#ffffff;}#pricing-table{padding-top:80px;padding-left:0px;padding-bottom:80px;padding-right:0px;}
+.awe-section-33-8-0{}
+.awe-section-33-8-0-0-header{color:#000000;color:rgb(0,0,0);text-align:center;}
+.awe-section-33-8-0-1-divider .line-divider{border-top-style:solid;border-top-color:rgb(0,0,0);border-top-color:#000000;border-top-width:2px;}.awe-section-33-8-0-1-divider{padding-top:10px;padding-left:22.5px;padding-bottom:10px;padding-right:22.5px;width:80px;}
+.awe-section-33-8-1{}
+.awe-section-33-8-1-0-pricing{background-color:;cursor:pointer;}.awe-section-33-8-1-0-pricing:hover{background-color:!important;}.awe-section-33-8-1-0-pricing .feature-list{border-top:1px solid;color:;}.awe-section-33-8-1-0-pricing h3{color:;font-size:-1px;line-height:-1px;letter-spacing:-1px;}.awe-section-33-8-1-0-pricing .price{color:;font-size:-1px;line-height:-1px;letter-spacing:-1px;}.awe-section-33-8-1-0-pricing .ts-button{color:!important;background:!important;border-color:;}.awe-section-33-8-1-0-pricing .ts-button:hover{color:!important;background:!important;border-color:!important;}.awe-section-33-8-1-0-pricing .icon{background:!important;color:!important;}
+.awe-section-33-8-2{}
+.awe-section-33-8-2-0-pricing{background-color:;cursor:pointer;}.awe-section-33-8-2-0-pricing:hover{background-color:!important;}.awe-section-33-8-2-0-pricing .feature-list{border-top:1px solid;color:;}.awe-section-33-8-2-0-pricing h3{color:;font-size:-1px;line-height:-1px;letter-spacing:-1px;}.awe-section-33-8-2-0-pricing .price{color:;font-size:-1px;line-height:-1px;letter-spacing:-1px;}.awe-section-33-8-2-0-pricing .ts-button{color:rgb(255,255,255) !important;background:rgb(94,217,231) !important;border-color:rgb(94,217,231);}.awe-section-33-8-2-0-pricing .ts-button:hover{color:rgb(94,217,231) !important;background:rgb(255,255,255) !important;border-color:rgb(255,255,255) !important;}.awe-section-33-8-2-0-pricing .icon{background:rgb(94,217,231) !important;color:rgb(255,255,255) !important;}
+.awe-section-33-8-3{}
+.awe-section-33-8-3-0-pricing{background-color:;cursor:pointer;}.awe-section-33-8-3-0-pricing:hover{background-color:!important;}.awe-section-33-8-3-0-pricing .feature-list{border-top:1px solid;color:;}.awe-section-33-8-3-0-pricing h3{color:;font-size:-1px;line-height:-1px;letter-spacing:-1px;}.awe-section-33-8-3-0-pricing .price{color:;font-size:-1px;line-height:-1px;letter-spacing:-1px;}.awe-section-33-8-3-0-pricing .ts-button{color:!important;background:!important;border-color:;}.awe-section-33-8-3-0-pricing .ts-button:hover{color:!important;background:!important;border-color:!important;}.awe-section-33-8-3-0-pricing .icon{background:!important;color:!important;}
+.awe-section-33-9{position:relative;}.awe-section-33-9 .awe-bg-overlay{background-color:#dd5780;background-color:rgba(221,87,128,0.8);height:100%;position:absolute;width:100%;top:0;left:0;}.awe-section-33-9{background:url(http://demo.megadrupal.com/d7/md-ariva/sites/default/files/bg-testimonial.jpg)  fixed 50% 0%/cover;}.awe-section-33-9{position:relative;}.awe-section-33-9 .awe-bg-overlay{background-color:#dd5780;background-color:rgba(221,87,128,0.8);height:100%;position:absolute;width:100%;top:0;left:0;}.awe-section-33-9{padding-top:130px;padding-left:0px;padding-bottom:95px;padding-right:0px;}
+.awe-section-33-9-0{}
+
+#client{background-color:rgb(240,240,240);background-color:#f0f0f0;}#client{padding-top:80px;padding-left:0px;padding-bottom:80px;padding-right:0px;}
+.awe-section-33-10-0{}
+.awe-section-33-10-0-0-header{color:#252525;color:rgb(37,37,37);text-align:center;}
+.awe-section-33-10-0-1-divider .line-divider{border-top-style:solid;border-top-color:rgb(0,0,0);border-top-color:#000000;}.awe-section-33-10-0-1-divider{padding-top:10px;padding-left:22.5px;padding-bottom:10px;padding-right:22.5px;width:80px;}
+.awe-section-33-10-0-2-header{text-align:center;}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-10-0-3-carousel-0{}
+
+.awe-section-33-11{background-color:rgb(255,255,255);background-color:#ffffff;}
+.awe-section-33-11-0{}
+
+
+.awe-section-33-12-0{}
+.awe-section-33-12-0-0-gmap{height:400px;}
+
+.awe-section-33-13-0{}
+
+
+/*]]>*/-->
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/css/ie7.css?nv1bkj" media="all" />
+<![endif]-->
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js"></script>
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_CwA9uD2kYGc1ubylea-Ul8iN5PWYS40GWBA4ue9Bo4w.js"></script>
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_khmjhhIy3jt5iRh2SkTGUtdgq142hYz47QFv3I2PCAc.js"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_YierxJZUzuedEOElE77CCb-Hf9YZOfUNNK9cz2LLhUI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/d7\/md-ariva\/","pathPrefix":"","ajaxPageState":{"theme":"md_ariva","theme_token":"bun9AysFgW7zn0hTncqPurJcuTuwB-IKwmKYDg7Xqz4","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/froogaloop.min.js":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/magnific\/magnific-popup.js":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/jquery.parallax-fontend.js":1,"https:\/\/www.youtube.com\/iframe_api":1,"https:\/\/maps.googleapis.com\/maps\/api\/js?v=3.exp":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/owl.carousel\/owl.carousel.js":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awe-frontend-scripts.js":1,"sites\/all\/modules\/custom\/md_themesite\/special\/block_view\/js\/jquery.min.mb.YTPlayer.js":1,"sites\/all\/modules\/custom\/md_themesite\/special\/block_view\/js\/special-block.js":1,"sites\/all\/modules\/custom\/md_ac_ariva\/js\/frontend-md-ac-ariva.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/contrib\/webform\/js\/webform.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.flexslider.js":1,"sites\/all\/modules\/custom\/md_themesite\/special\/block_view\/js\/background_content.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/bootstrap.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.appear.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.cubeportfolio.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.fancybox.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/waypoints.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.h5validate.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.lightSlider.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/modernizr.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/owl.carousel.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/select2.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.countTo.js":1,"sites\/all\/themes\/md_ariva\/js\/portfolio.js":1,"sites\/all\/themes\/md_ariva\/js\/custom.js":1,"sites\/all\/themes\/md_ariva\/js\/md_ariva.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/awecontent-layout.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/awe-animate.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/new-custom.css":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/magnific\/magnific-popup.css":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/owl.carousel\/owl.carousel.css":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/owl.carousel\/owl.theme.css":1,"sites\/all\/modules\/custom\/md_awecontent\/js\/awecontent\/lib\/owl.carousel\/owl.transitions.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/accordion.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/image.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/gallery.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/slideshow.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/button.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/divider.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/flickr.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/ac-icon.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/icon.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/table.css":1,"sites\/all\/modules\/custom\/md_awecontent\/css\/objects\/tabs.css":1,"http:\/\/fonts.googleapis.com\/css?family=Montserrat:400,700":1,"0":1,"public:\/\/icon\/fontello\/ariva\/css\/ariva.css":1,"sites\/all\/modules\/contrib\/fontello\/css\/fontello.fix.css":1,"public:\/\/icon\/fontello\/ariva\/css\/ariva-ie7.css":1,"public:\/\/icon\/fontello\/ariva\/css\/animation.css":1,"sites\/all\/modules\/custom\/md_themesite\/special\/block_view\/css\/style-custom.css":1,"sites\/all\/modules\/custom\/md_themesite\/special\/block_view\/css\/YTPlayer.css":1,"sites\/all\/modules\/custom\/md_ac_ariva\/css\/awecontent-welcome-item.css":1,"sites\/all\/modules\/custom\/md_ac_ariva\/css\/awecontent-service-item.css":1,"sites\/all\/modules\/custom\/md_ac_ariva\/css\/awecontent-feature-item.css":1,"sites\/all\/modules\/custom\/md_ac_ariva\/css\/awecontent-funfact-item.css":1,"sites\/all\/modules\/custom\/md_ac_ariva\/css\/awecontent-team-item.css":1,"sites\/all\/modules\/custom\/md_ac_ariva\/css\/awecontent-pricing-item.css":1,"sites\/all\/modules\/contrib\/webform\/css\/webform.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/bootstrap.min.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/cubeportfolio.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/lightSlider.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/owl.carousel.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/select2.css":1,"sites\/all\/themes\/md_ariva\/css\/style.css":1,"sites\/all\/themes\/md_ariva\/css\/md_ariva.css":1,"sites\/all\/themes\/md_ariva\/css\/md_awecontent.css":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"17":1,"18":1,"19":1,"20":1,"21":1,"22":1,"23":1,"24":1,"25":1,"26":1,"27":1,"28":1,"29":1,"30":1,"31":1,"32":1,"33":1,"34":1,"35":1,"36":1,"37":1,"38":1,"39":1,"40":1,"41":1,"42":1,"43":1,"44":1,"45":1,"46":1,"47":1,"48":1,"49":1,"50":1,"51":1,"52":1,"53":1,"54":1,"55":1,"56":1,"57":1,"58":1,"59":1,"60":1,"61":1,"62":1,"63":1,"64":1,"65":1,"66":1,"67":1,"68":1,"69":1,"70":1,"71":1,"72":1,"73":1,"74":1,"75":1,"76":1,"77":1,"78":1,"79":1,"80":1,"81":1,"82":1,"83":1,"84":1,"85":1,"86":1,"87":1,"88":1,"89":1,"90":1,"91":1,"92":1,"93":1,"94":1,"95":1,"96":1,"97":1,"98":1,"99":1,"100":1,"sites\/all\/themes\/md_ariva\/css\/ie7.css":1}},"arivaSettings":{"path":"sites\/all\/modules\/custom\/md_ac_ariva"},"flick":{"flick_setting_id":"27838818@N04","flick_setting_numberphoto":"6"},"urlIsAjaxTrusted":{"\/d7\/md-ariva\/home-video-background":true}});
+//--><!]]>
+</script>
+  <style type="text/css">
+            body {}
+a:link, #node-title a {}
+a:hover, #node-title a:hover {}
+a:visited, #node-title a:visited {}
+a:focus, a:active, #node-title a:focus, #node-title a:active {}
+      </style>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-33 node-type-page awecontent-layout " >
+  <div id="loader-wrapper">
+          <div class="preloader loading">
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+          </div>
+      </div>  
+    
+<div id="page-wrapper">
+
+  <header class="header-basic">
+    <div class="main-header">
+     <div class="container">
+                  <div class="logo">
+          <h1><a href="/d7/md-ariva/" title="Home" rel="home" id="logo">
+            <img src="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/logo.png" alt="Home" />
+          </a></h1>
+        </div>
+        
+                  <a href="javascript:void(0)" class="menubar menubar-default">
+                  <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <div class="social-top">
+              
+	<div id="block-md-block-custom-mls-header" class="block block-md-block-custom">
+	  			  		    <ul class="social"><li><a href="#" target="_blank"><i class="icon fontello icon-twitter" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-behance" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-dribbble" aria-hidden="true"></i></a></li></ul>	</div>
+
+        </div>
+                              <nav class="ts-default-menu">
+                <ul class="default-nav"><li class="first expanded active-trail dropdown active"><a href="/d7/md-ariva/" title="" class="active-trail">Home</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/full-scrreen-slider">Home Fullscreen Slider</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-freelancer">Home Freelancer</a></li>
+<li class="leaf active-trail active"><a href="/d7/md-ariva/home-video-background" class="active-trail active">Menu Video Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-pattern-background">Home Pattern Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-background-image">Home Image Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-parrallax-slide">Home Parallax Slide Image</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-dropdown-menu">Home Dropdown Menu</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/menu-hidden-onload">Menu Hidden Onload</a></li>
+</ul></li>
+<li class="leaf"><a href="/d7/md-ariva/#history" title="">History</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#portfolio" title="">Work</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#team" title="">Team</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#pricing-table" title="">Pricing</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#client" title="">Client</a></li>
+<li class="expanded dropdown"><a href="/d7/md-ariva/blog" title="">Blog</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/blog">Blog</a></li>
+<li class="leaf"><a href="/d7/md-ariva/node/1">Single Post</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/page-404" title="">Page 404</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/d7/md-ariva/product" title="">Shop</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/product">Product</a></li>
+<li class="leaf"><a href="/d7/md-ariva/node/9">Product Detail</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/cart" title="">Cart</a></li>
+</ul></li>
+<li class="last leaf"><a href="/d7/md-ariva/#contact" title="">Contact</a></li>
+</ul>            </nav>
+                        </div>
+
+          </div>
+      </header>
+
+
+  <div id="main-wrapper" class="clearfix">
+    <div class="md-body">
+      <div class="main-content">
+                          <div id="content" class="column">
+            <a id="main-content"></a>
+                                    <div id="tabs-menu" class="tabs"></div>                                        
+	<div id="block-system-main" class="block block-system">
+	  			  
+	  <div class="content">
+	    <div id="node-33" class="node node-page clearfix" about="/d7/md-ariva/home-video-background" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Home Video Background" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div id="awe-section-wrapper" class="awe-colper">
+      <div   class="awecontent-section  awe-section-33-0 " >
+    <div class="container-fluid">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-0-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          
+<div id="background-video"  class="special-video block-33-block-4 block block-block scroll_anchor" data-animation="{&quot;type&quot;: &quot;none&quot;}">
+  
+		        
+		
+    			<div id="fixed_video">
+				<div class="content-section video-section">
+					<div class="pattern-overlay">
+					<!-- Video BG Init -->
+					<a id="bgndVideo" class="player"
+							data-property="{
+														 videoURL:'_Um-an4TJOg',
+														 containment:'#background-video',
+														 autoPlay:1,
+														 showControls: 1,
+														 showYTLogo: false,
+														 mute:1,
+														 startAt:0, 
+														 opacity:1
+														}">
+																<img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/bgvideo1.jpg" alt="special"/>							
+												</a>
+					<!-- End Video BG Init -->
+					</div>
+				</div>
+			</div>		
+    
+    <div class="home-details-tb absolute">				   
+			<div class="relative home-details-inner">
+			 	          <div class="logo-slide"><img src="http://demo.megadrupal.com/d7/md-ariva/sites/all/modules/custom/md_themesite/special/block_view/images/logo-slide.png" alt="Logo" /></div>
+          
+        <div class="hometexts">
+  <ul><li>We Love <strong>Drupal</strong></li>
+		<li>We Are <strong>MegaDrupal</strong></li>
+		<li>We create <strong>Awesome Work</strong></li>
+	</ul></div>
+<h1 class="fixed-text uppercase bold condensed">the goods you need now !</h1>
+<ul class="home-categories"><li>Branding</li> <li>Development</li> <li>Product</li> <li>Advertising</li></ul>			    
+			</div>
+	  </div>
+
+			<div class="home-arrow scroll">
+	    <a href="#history"><span class="icon icon-glyph-264"></span></a>
+	  </div>
+  
+</div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div id="history"  class="awecontent-section   " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-1-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="content-welcome-section text-center awe-section-33-1-0-0-welcome_content" >
+  <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/img-wellcome.png" alt="" /></figure>
+  <h2 class="wellcome-heading">HISTORY</h2>
+  <div class="section-title text-center">
+    <h3>WE ARE ARIVA</h3>
+    <hr>
+  </div>
+  <div class="row">
+    <div class="col-sm-10 col-xs-12 col-sm-offset-1 text-center">
+      We are a creative, multi-disciplined web &amp; digital design studio in Uttoxeter, Staffordshire. From brochure websites to custom e-commerce solutions, we have it covered.We have a great understanding when it comes to designing and developing websites. We ensure everything we build has been optimised for smartphones, tablets &amp; desktops. We also specialise in marketing, branding and product design.    </div>
+          <div class="col-sm-12 text-center button-wellcom">
+                  <a class="ts-button" href="#" target="_blank" style="background: ;">
+            Work          </a>
+                  <a class="ts-button" href="#" target="_blank" style="background: ;">
+            People          </a>
+              </div>
+      </div>
+</div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-2 " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-2-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-carousel  style1"  data-items="3" data-responsive="1" data-items-desktop-small="3" data-items-tablet="2" data-items-mobile="1" data-auto="1" data-time-auto="5" data-stop-on-hover="false" data-navigation="false" data-pagination="true">
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-2-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-services awe-section-33-2-0-0-carousel-0-0-services" >
+  <div class="item-service-slide">
+    <div class="icon"><i class="icon fontello icon-glyph-6"></i></div>
+    <hr>
+    <h3>DESIGN</h3>
+    <div class="content-service">
+                      Monotonectally embrace empowered solutions for virtual best practices. Professionally maximize cross-unit collaboration and idea-sharing after frictionless                </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-2-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-services awe-section-33-2-0-0-carousel-0-0-services" >
+  <div class="item-service-slide">
+    <div class="icon"><i class="icon fontello icon-glyph"></i></div>
+    <hr>
+    <h3>ADVERTISING</h3>
+    <div class="content-service">
+                                      Monotonectally embrace empowered solutions for virtual best practices. Professionally maximize cross-unit collaboration and idea-sharing after frictionless                           </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-2-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-services awe-section-33-2-0-0-carousel-0-0-services" >
+  <div class="item-service-slide">
+    <div class="icon"><i class="icon fontello icon-chart-bar"></i></div>
+    <hr>
+    <h3>STRATEGY</h3>
+    <div class="content-service">
+                                      Monotonectally embrace empowered solutions for virtual best practices. Professionally maximize cross-unit collaboration and idea-sharing after frictionless                          </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-2-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-services awe-section-33-2-0-0-carousel-0-0-services" >
+  <div class="item-service-slide">
+    <div class="icon"><i class="icon fontello icon-chart-pie"></i></div>
+    <hr>
+    <h3>STRATEGY</h3>
+    <div class="content-service">
+      Monotonectally embrace empowered solutions for virtual best practices. Professionally maximize cross-unit collaboration and idea-sharing after frictionless    </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+    </div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-3 " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-3-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-carousel  nav-left"  data-items="1" data-responsive="1" data-items-desktop-small="1" data-items-tablet="1" data-items-mobile="1" data-auto="1" data-time-auto="5" data-stop-on-hover="false" data-navigation="true" data-pagination="false" data-mousedrag="false" data-touchdrag="false" data-effect="fade">
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-3-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item item-feature awe-section-33-3-0-0-carousel-0-0-feature" >
+  <div class="row">
+    <div class="col-sm-6 col-xs-12 img-feature">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/feature.jpg" alt=""></figure>
+    </div>
+    <div class="col-sm-6 col-xs-12 feature-content">
+      <div class="section-title text-left">
+        <h3>Our capabilites</h3>
+        <hr>
+      </div>
+      <h2>Product Design</h2>
+      <div class="feature-desc">
+        Dynamically scale multifunctional markets without dynamic mindshare. Professionally pursue pandemic supply chains after client-centered partnerships. Collaboratively evolve parallel e-tailers and multimedia based imperatives. Progressively impact                            <ul><li>Identity Systems</li><li>Brand Guidelines</li><li>Brand Books</li><li>Content Development</li><li>Business Systems</li></ul>              </div>
+          </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-3-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item item-feature awe-section-33-3-0-0-carousel-0-0-feature" >
+  <div class="row">
+    <div class="col-sm-6 col-xs-12 img-feature">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/feature-imgleft-2.jpg" alt=""></figure>
+    </div>
+    <div class="col-sm-6 col-xs-12 feature-content">
+      <div class="section-title text-left">
+        <h3>Our capabilites</h3>
+        <hr>
+      </div>
+      <h2>Product Design</h2>
+      <div class="feature-desc">
+        Dynamically scale multifunctional markets without dynamic mindshare. Professionally pursue pandemic supply chains after client-centered partnerships. Collaboratively evolve parallel e-tailers and multimedia based imperatives. Progressively impact                            <ul><li>Identity Systems</li><li>Brand Guidelines</li><li>Brand Books</li><li>Content Development</li><li>Business Systems</li></ul>              </div>
+          </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+    </div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-4 " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-4-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-carousel  nav-right"  data-items="1" data-responsive="1" data-items-desktop-small="1" data-items-tablet="1" data-items-mobile="1" data-auto="1" data-time-auto="5" data-stop-on-hover="false" data-navigation="true" data-pagination="false" data-mousedrag="false" data-touchdrag="false" data-effect="fade">
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-4-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item item-feature awe-section-33-4-0-0-carousel-0-0-feature position-right" >
+  <div class="row">
+    <div class="col-sm-6 col-xs-12 img-feature">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/feature-imgright.png" alt=""></figure>
+    </div>
+    <div class="col-sm-6 col-xs-12 feature-content">
+      <div class="section-title text-left">
+        <h3>The process</h3>
+        <hr>
+      </div>
+      <h2>PLANNING</h2>
+      <div class="feature-desc">
+        Dynamically scale multifunctional markets without dynamic mindshare. Professionally pursue pandemic supply chains after client-centered partnerships. Collaboratively evolve parallel e-tailers and multimedia based imperatives. Progressively impact              </div>
+          </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-4-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item item-feature awe-section-33-4-0-0-carousel-0-0-feature position-right" >
+  <div class="row">
+    <div class="col-sm-6 col-xs-12 img-feature">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/feature-imgright-2.jpg" alt=""></figure>
+    </div>
+    <div class="col-sm-6 col-xs-12 feature-content">
+      <div class="section-title text-left">
+        <h3>The process</h3>
+        <hr>
+      </div>
+      <h2>Development</h2>
+      <div class="feature-desc">
+        Dynamically scale multifunctional markets without dynamic mindshare. Professionally pursue pandemic supply chains after client-centered partnerships. Collaboratively evolve parallel e-tailers and multimedia based imperatives. Progressively impact              </div>
+          </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-4-0-0-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item item-feature awe-section-33-4-0-0-carousel-0-0-feature position-right" >
+  <div class="row">
+    <div class="col-sm-6 col-xs-12 img-feature">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/Launch.jpg" alt=""></figure>
+    </div>
+    <div class="col-sm-6 col-xs-12 feature-content">
+      <div class="section-title text-left">
+        <h3>The process</h3>
+        <hr>
+      </div>
+      <h2>Launch</h2>
+      <div class="feature-desc">
+        Dynamically scale multifunctional markets without dynamic mindshare. Professionally pursue pandemic supply chains after client-centered partnerships. Collaboratively evolve parallel e-tailers and multimedia based imperatives. Progressively impact              </div>
+          </div>
+  </div>
+</div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+    </div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div id="funfact"  class="awecontent-section   " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-5-0 col-lg-3 col-md-3 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="ts-funfact awe-funfact awe-section-33-5-0-0-funfact" >
+    <span class="funfact-number" data-number="49" style="color:;font-size: -1px;line-height: -1px;letter-spacing: -1px;">
+        49    </span>
+  <h5 style="color: ;font-size:-1px;line-height: -1px;letter-spacing: -1px;">PROJECT COMPLETE</h5>
+</div>        </div>
+  </div>
+</div>              <div  class="awe-col awecontent-column awe-section-33-5-1 col-lg-3 col-md-3 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="ts-funfact awe-funfact awe-section-33-5-1-0-funfact" >
+    <span class="funfact-number" data-number="12" style="color:;font-size: -1px;line-height: -1px;letter-spacing: -1px;">
+        12    </span>
+  <h5 style="color: ;font-size:-1px;line-height: -1px;letter-spacing: -1px;">AWWARD WINNING</h5>
+</div>        </div>
+  </div>
+</div>              <div  class="awe-col awecontent-column awe-section-33-5-2 col-lg-3 col-md-3 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="ts-funfact awe-funfact awe-section-33-5-2-0-funfact" >
+    <span class="funfact-number" data-number="68" style="color:;font-size: -1px;line-height: -1px;letter-spacing: -1px;">
+        68    </span>
+  <h5 style="color: ;font-size:-1px;line-height: -1px;letter-spacing: -1px;">HAPPY CUSTOMERS</h5>
+</div>        </div>
+  </div>
+</div>              <div  class="awe-col awecontent-column awe-section-33-5-3 col-lg-3 col-md-3 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="ts-funfact awe-funfact awe-section-33-5-3-0-funfact" >
+    <span class="funfact-number" data-number="79" style="color:;font-size: -1px;line-height: -1px;letter-spacing: -1px;">
+        79    </span>
+  <h5 style="color: ;font-size:-1px;line-height: -1px;letter-spacing: -1px;">COFFEE CUPS</h5>
+</div>        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-6 " >
+    <div class="container-fluid">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-6-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          
+	<div id="portfolio" class="block-33-views-portfolio-block block block-views" data-animation="{&quot;type&quot;: &quot;none&quot;}">
+	  	  
+	  		<div class="section-title text-center">
+        <h3>Our portfolio</h3>
+        <hr>
+      </div>
+		  
+	  
+	  <div class="view view-portfolio view-id-portfolio view-display-id-block view-dom-id-6a9c515c73a093ed55b3d43a1b717518">
+      
+        <div id="filters-portfolio" class="cbp-l-filters-alignCenter view view-portfolio-filter view-id-portfolio_filter view-display-id-block view-dom-id-e6858d94a6f695a37fc2c3443a3a25db">
+        
+  
+  
+        
+
+<div data-filter="*" class="cbp-filter-item-active cbp-filter-item">ALL</div>
+	
+  <div class="cbp-filter-item" data-filter=".advertising">advertising</div>
+	
+  <div class="cbp-filter-item" data-filter=".print">print</div>
+	
+  <div class="cbp-filter-item" data-filter=".product">product</div>
+	
+  <div class="cbp-filter-item" data-filter=".web-design">web-design</div>
+  
+  
+  
+  
+  
+  
+</div>  
+  
+  
+      <div id="grid-portfolio" class="cbp-l-grid-fullScreen view-content">
+      
+
+  	<ul>				
+						  
+							  
+									
+		  <li class="cbp-item four_layout print product"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/17" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/banner-portfolio.jpg?itok=GfaDn7TX" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">Adablack jack</div>
+				<div class="cbp-l-caption-cats">print, product</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+				
+						  
+							  
+									
+		  <li class="cbp-item four_layout advertising web-design"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/25" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/banner-31.png?itok=ILhjcJDs" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">Events and More</div>
+				<div class="cbp-l-caption-cats">advertising, web-design</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+				
+						  
+							  
+									
+		  <li class="cbp-item four_layout print product"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/24" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/portfolio-img4.jpg?itok=MCnDxTvh" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">To-Do Dashboard</div>
+				<div class="cbp-l-caption-cats">print, product</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+				
+						  
+							  
+									
+		  <li class="cbp-item four_layout advertising print"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/23" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/portfolio-img3.jpg?itok=rBxuCiLi" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">10 Navigation Bars</div>
+				<div class="cbp-l-caption-cats">advertising, print</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+				
+						  
+							  
+									
+		  <li class="cbp-item four_layout advertising print"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/22" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/portfolio-img2.jpg?itok=PNtEXZWv" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">Skateshop Website</div>
+				<div class="cbp-l-caption-cats">advertising, print</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+				
+						  
+							  
+							  
+									
+		  <li class="cbp-item four_layout advertising product web-design"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/21" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/portfolio-img1.jpg?itok=jv28XfUD" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">Website Lightbox</div>
+				<div class="cbp-l-caption-cats">advertising, product, web-design</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+				
+						  
+							  
+									
+		  <li class="cbp-item four_layout print product"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/20" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/portfolio5.png?itok=edmj5hpD" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">World Clock Widget</div>
+				<div class="cbp-l-caption-cats">print, product</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+				
+						  
+							  
+									
+		  <li class="cbp-item four_layout print product"><a href="http://demo.megadrupal.com/d7/md-ariva/ajax-project/19" class="cbp-caption cbp-singlePage">
+	<div class="cbp-caption-defaultWrap">
+		<img typeof="foaf:Image" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/styles/portfolio/public/portfolio11.png?itok=4k1ehWhj" width="474" height="350" alt="portfolio" title="portfolio" />	</div>
+	<div class="cbp-caption-activeWrap">
+		<div class="cbp-l-caption-alignLeft">
+			<div class="cbp-l-caption-body">
+				<div class="cbp-l-caption-title">Client chat app WIP</div>
+				<div class="cbp-l-caption-cats">print, product</div>
+			</div>
+		</div>
+	</div>
+</a></li>
+			</ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>	  
+	</div>
+
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div id="team"  class="awecontent-section  bg-gradient " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-7-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <h3  class="awe-item awe-header awe-section-33-7-0-0-header" >
+  BEHIND SCREEN</h3>          <div  class="awe-divider awe-item awe-section-33-7-0-1-divider" >
+  <div class="divider-field">
+          <div class="divider-left"><span class="line-divider"></span></div>
+      </div>
+</div>
+          <h5  class="awe-item awe-header awe-section-33-7-0-2-header" >
+  Dreamers, developers, designers, we’re a talented bunch.</h5>        </div>
+  </div>
+</div>          </div>
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-7-1 col-lg-4 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-team awe-section-33-7-1-0-team" >
+  <div class="ts-item-member member-center">
+    <div class="member-avatar">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/member-1.png" alt="member"></figure>
+    </div>
+    <div class="over-member" style="background: ">
+      <div class="member-detail">
+        <span class="member-name">ROBERT SMITH</span>
+        <span class="memver-position">Senior Designer</span>
+        <span class="member-icon"><img src="/d7/md-ariva/sites/all/modules/custom/md_ac_ariva/images/icon-team.png" alt="team"></span>
+        <p class="member-desc">
+          Proactively expedite corporate data via premium materials. Assertively iterate extensible best practices before visionary functionalities.         </p>
+        <ul class="member-social">
+                                      <li>
+                  <a href="https://www.facebook.com">
+                    <i class="icon fontello icon-facebook-squared"></i>
+                  </a>
+                </li>
+                            <li>
+                  <a href="https://plus.google.com">
+                    <i class="icon fontello icon-gplus-squared"></i>
+                  </a>
+                </li>
+                            <li>
+                  <a href="https://www.pinterest.com/">
+                    <i class="icon fontello icon-pinterest-circled"></i>
+                  </a>
+                </li>
+                              </ul>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+  </div>
+</div>              <div  class="awe-col awecontent-column awe-section-33-7-2 col-lg-4 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-team awe-section-33-7-2-0-team" >
+  <div class="ts-item-member member-center">
+    <div class="member-avatar">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/member-2.png" alt="member"></figure>
+    </div>
+    <div class="over-member" style="background: ">
+      <div class="member-detail">
+        <span class="member-name">ROBERT SMITH</span>
+        <span class="memver-position">Senior Designer</span>
+        <span class="member-icon"><img src="/d7/md-ariva/sites/all/modules/custom/md_ac_ariva/images/icon-team.png" alt="team"></span>
+        <p class="member-desc">
+          Proactively expedite corporate data via premium materials. Assertively iterate extensible best practices before visionary functionalities.         </p>
+        <ul class="member-social">
+                                      <li>
+                  <a href="https://www.facebook.com">
+                    <i class="icon fontello icon-facebook-squared"></i>
+                  </a>
+                </li>
+                            <li>
+                  <a href="https://plus.google.com">
+                    <i class="icon fontello icon-gplus-squared"></i>
+                  </a>
+                </li>
+                            <li>
+                  <a href="https://www.pinterest.com/">
+                    <i class="icon fontello icon-pinterest-circled"></i>
+                  </a>
+                </li>
+                              </ul>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+  </div>
+</div>              <div  class="awe-col awecontent-column awe-section-33-7-3 col-lg-4 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-team awe-section-33-7-3-0-team" >
+  <div class="ts-item-member member-center">
+    <div class="member-avatar">
+      <figure><img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/member-3.png" alt="member"></figure>
+    </div>
+    <div class="over-member" style="background: ">
+      <div class="member-detail">
+        <span class="member-name">ROBERT SMITH</span>
+        <span class="memver-position">Senior Designer</span>
+        <span class="member-icon"><img src="/d7/md-ariva/sites/all/modules/custom/md_ac_ariva/images/icon-team.png" alt="team"></span>
+        <p class="member-desc">
+          Proactively expedite corporate data via premium materials. Assertively iterate extensible best practices before visionary functionalities.         </p>
+        <ul class="member-social">
+                                      <li>
+                  <a href="https://www.facebook.com">
+                    <i class="icon fontello icon-facebook-squared"></i>
+                  </a>
+                </li>
+                            <li>
+                  <a href="https://plus.google.com">
+                    <i class="icon fontello icon-gplus-squared"></i>
+                  </a>
+                </li>
+                            <li>
+                  <a href="https://www.pinterest.com/">
+                    <i class="icon fontello icon-pinterest-circled"></i>
+                  </a>
+                </li>
+                              </ul>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div id="pricing-table"  class="awecontent-section   " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-8-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <h5  class="awe-item awe-header awe-section-33-8-0-0-header" >
+  THE PRICING</h5>          <div  class="awe-divider awe-item awe-section-33-8-0-1-divider" >
+  <div class="divider-field">
+          <div class="divider-left"><span class="line-divider"></span></div>
+      </div>
+</div>
+        </div>
+  </div>
+</div>          </div>
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-8-1 col-lg-4 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="ts-pricing-table awe-pricing awe-section-33-8-1-0-pricing">
+    <div class="icon fontello icon-glyph-255"></div>
+        <h3>BASIC</h3>
+        <div class="price-unit">
+                <span class="price">$3.99</span>
+                <span class="unit"> monthly (based on 1 yr)</span>
+        </div>
+        <div class="feature-list">
+            <ul>
+<li>Full Access</li>
+<li>Unlimited Pizza</li>
+<li>2 Free Forks Every Months</li>
+<li>Unlimited Burger</li>
+<li>Daft Punk Every Evenings</li></ul>        </div>
+        <a href="#" class="ts-button" >SIGN UP</a>
+</div>
+        </div>
+  </div>
+</div>              <div  class="awe-col awecontent-column awe-section-33-8-2 col-lg-4 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="ts-pricing-table awe-pricing awe-section-33-8-2-0-pricing">
+    <div class="icon fontello icon-glyph-257"></div>
+        <h3>PREMIUM</h3>
+        <div class="price-unit">
+                <span class="price">$39.99</span>
+                <span class="unit"> monthly (based on 1 yr)</span>
+        </div>
+        <div class="feature-list">
+            <ul>
+<li>Full Access</li>
+<li>Unlimited Pizza</li>
+<li>2 Free Forks Every Months</li>
+<li>Unlimited Burger</li>
+<li>Daft Punk Every Evenings</li></ul>        </div>
+        <a href="#" class="ts-button" >SIGN UP</a>
+</div>
+        </div>
+  </div>
+</div>              <div  class="awe-col awecontent-column awe-section-33-8-3 col-lg-4 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="ts-pricing-table awe-pricing awe-section-33-8-3-0-pricing">
+    <div class="icon fontello icon-glyph-258"></div>
+        <h3>ADVANDED</h3>
+        <div class="price-unit">
+                <span class="price">$49.99</span>
+                <span class="unit"> monthly (based on 1 yr)</span>
+        </div>
+        <div class="feature-list">
+            <ul>
+<li>Full Access</li>
+<li>Unlimited Pizza</li>
+<li>2 Free Forks Every Months</li>
+<li>Unlimited Burger</li>
+<li>Daft Punk Every Evenings</li></ul>        </div>
+        <a href="#" class="ts-button" >SIGN UP</a>
+</div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-9 " >
+    <div class="awe-bg-overlay"></div>
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-9-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          
+	
+			<div id="block-views-testimonial-block" class="data_background block-33-views-testimonial-block parallax-section block block-views" data-animation="{&quot;type&quot;: &quot;none&quot;}">
+		  		  		  
+		  	    
+			  
+
+		  <div class="container">
+		    <div class="view view-testimonial view-id-testimonial view-display-id-block view-dom-id-d9d6170c4ad620de40d1a4e01b5d2ad0">
+        
+  
+  
+      <div class="ts-testimonial-slide">
+        <div class="ts-testimonial-item">
+      
+          <p>"By having a bigger purpose, it just might be that Avira's building a 21st century design studio: the crucible of big, world-changing ideas."</p>
+<div class="infor-client">
+	<span class="icon-client"><i class="icon icon-quote-left"></i></span>
+	<span class="client-name">Robert smith</span>
+	<span class="client-position">Ceo of <a href="">Geckoos.com</a></span>
+</div>    </div>
+  <div class="ts-testimonial-item">
+      
+          <p>"By having a bigger purpose, it just might be that Avira's building a 21st century design studio: the crucible of big, world-changing ideas."</p>
+<div class="infor-client">
+	<span class="icon-client"><i class="icon icon-quote-left"></i></span>
+	<span class="client-name">Robert</span>
+	<span class="client-position">Dev of <a href="">Geckoos</a></span>
+</div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		  </div>
+		</div>
+
+	
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div id="client"  class="awecontent-section   " >
+    <div class="container">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-10-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <h5  class="awe-item awe-header awe-section-33-10-0-0-header" >
+  THE CLIENTS</h5>          <div  class="awe-divider awe-item awe-section-33-10-0-1-divider" >
+  <div class="divider-field">
+          <div class="divider-left"><span class="line-divider"></span></div>
+      </div>
+</div>
+          <h5  class="awe-item awe-header awe-section-33-10-0-2-header" >
+  We’ve had the pleasure to work together with some remarkable brands.</h5>          <div  class="awe-item awe-carousel ts-client-slide style1"  data-items="5" data-responsive="1" data-items-desktop-small="5" data-items-tablet="4" data-items-mobile="3" data-auto="1" data-time-auto="5" data-stop-on-hover="false" data-navigation="false" data-pagination="true" data-mousedrag="false" data-touchdrag="false">
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client6.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client2.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client4.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client3.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client5.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client1.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client7.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+          <div class="awe-carousel-slide">
+        <div class="row">
+                      <div  class="awe-col awecontent-column awe-section-33-10-0-3-carousel-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-item awe-image awe-section-33-10-0-3-carousel-0-0-image caption-hover" >
+      <div class="awe-image-content">
+                  <div class="awe-image-container">
+        <img src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/client9.png" alt=""/>
+      </div>
+          </div>
+  </div>        </div>
+  </div>
+</div>                  </div>
+      </div>
+    </div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-11 " >
+    <div class="container-fluid">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-11-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          
+	<div id="our-blog" class="block-33-views-blog_index-block block block-views" data-animation="{&quot;type&quot;: &quot;none&quot;}">
+	  	  
+	  		<div class="section-title text-center">
+        <h3>From our blog</h3>
+        <hr>
+      </div>
+		  
+	  
+	  <div class="view view-blog-index view-id-blog_index view-display-id-block view-dom-id-76b7da751f112628dce7149a2b62297b">
+        
+  
+  
+      <div class="ts-lastest-from-blog">
+        <div class="views-row views-row-1 views-row-odd views-row-first item-post" style='background-image: url("http://demo.megadrupal.com/d7/md-ariva/sites/default/files/bgpost2.png");}'>
+    	<div class="overlay"></div>
+	<article>
+		 
+		  		    <span class="icon-post"><i class="icon icon-camera-alt"></i></span>
+		  		 
+		<h3><a href="/d7/md-ariva/node/8">Phosfluorescently supply</a></h3>
+		<ul class="meta-post">
+			<li>Aug 10, 2015</li>
+			<li>IN <a href="/d7/md-ariva/taxonomy/term/3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Branding</a></li>
+			<li>BY <span>admin</span></li>
+		</ul>
+	</article>  </div>
+  <div class="views-row views-row-2 views-row-even item-post" style='background-image: url("http://demo.megadrupal.com/d7/md-ariva/sites/default/files/bgpost1.png");}'>
+    	<div class="overlay"></div>
+	<article>
+		 
+		  		    <span class="icon-post"><i class="icon icon-play"></i></span>
+		  		 
+		<h3><a href="/d7/md-ariva/node/7">Holisticly reintermediate leading-edge</a></h3>
+		<ul class="meta-post">
+			<li>Aug 10, 2015</li>
+			<li>IN <a href="/d7/md-ariva/taxonomy/term/6" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Video</a></li>
+			<li>BY <span>admin</span></li>
+		</ul>
+	</article>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last item-post" style='background-image: url("http://demo.megadrupal.com/d7/md-ariva/sites/default/files/bgpost3.png");}'>
+    	<div class="overlay"></div>
+	<article>
+		 
+		  <span class="icon-post"><i class="icon icon-link"></i></span>     
+		 
+		<h3><a href="/d7/md-ariva/node/6">Ariva - clean &amp; unique one page psd</a></h3>
+		<ul class="meta-post">
+			<li>Aug 10, 2015</li>
+			<li>IN <a href="/d7/md-ariva/taxonomy/term/5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Uncategorized</a></li>
+			<li>BY <span>admin</span></li>
+		</ul>
+	</article>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>	  
+	</div>
+
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-12 " >
+    <div class="container-fluid">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-12-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div  class="awe-gmap awe-item awe-section-33-12-0-0-gmap"  data-zoom="18" data-style="style1" data-latLong="21.001763, 105.820591" data-scrollZoom="1" data-info="1" data-marker="" data-title="MegaDrupal" data-descriptions="MegaDrupal Company"></div>        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+      <div   class="awecontent-section  awe-section-33-13 " >
+    <div class="container-fluid">
+        <div class="row">
+              <div  class="awe-col awecontent-column awe-section-33-13-0 col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+  <div class="awe-col-content">
+        <div class="awe-col-wrapper">
+          <div id="contact" class="block-33-webform-client-block-27 contact-info block block-webform" data-animation="{&quot;type&quot;: &quot;none&quot;}">
+
+	  
+		<div class="container">
+		<div class="section-title text-center title-white">
+			<h3>Contact Us</h3>
+			<hr>
+			<p>What can we help you with?</p>
+		</div>
+  </div>
+	  
+    <form class="webform-client-form webform-client-form-27" enctype="multipart/form-data" action="/d7/md-ariva/home-video-background" method="post" id="webform-client-form-27" accept-charset="UTF-8"><div>
+<div class="container">
+  <div class="row">
+    <!-- Contact Info -->
+              <div class="col-sm-4 col-xs-12">
+          <div class="ts-contact-info text-center">
+            <!-- Icon -->
+            <i class="icon fontello icon-mail-alt"></i>
+                          <a href="mailto:hello@megadrupal.com" target="_blank">hello@megadrupal.com</a>
+              
+          </div>  
+        </div>
+
+              <div class="col-sm-4 col-xs-12">
+          <div class="ts-contact-info text-center">
+            <!-- Icon -->
+            <i class=",,,,,icon fontello icon-phone"></i>
+                          <span>+1 (415) 521-8775-123</span>
+              
+          </div>  
+        </div>
+
+              <div class="col-sm-4 col-xs-12">
+          <div class="ts-contact-info text-center">
+            <!-- Icon -->
+            <i class=",,,icon fontello icon-twitter"></i>
+                          <span>@Megadrupal</span>
+              
+          </div>  
+        </div>
+
+          <!-- End Contact Info -->
+
+
+   <div class="ts-contact-form">
+     <div class="row">
+        <div class="col-md-5 col-md-offset-1 col-sm-12 col-xs-12">
+          <div class="row">
+            <div  class="col-md-12 col-sm-4 col-xs-12 form-item webform-component webform-component-textfield webform-component--name">
+  <label class="element-invisible" for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Name" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128" class="input-control required" />
+</div>
+            <div  class="col-md-12 col-sm-4 col-xs-12 form-item webform-component webform-component-email webform-component--email">
+  <label class="element-invisible" for="edit-submitted-email">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" class="email input-control form-text form-email required" placeholder="Mail*" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
+</div>
+            <div  class="col-md-12 col-sm-4 col-xs-12 form-item webform-component webform-component-textfield webform-component--subject">
+  <label class="element-invisible" for="edit-submitted-subject">Subject <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" placeholder="Subject" type="text" id="edit-submitted-subject" name="submitted[subject]" value="" size="60" maxlength="128" class="input-control required" />
+</div>
+          </div>
+        </div>  
+        <div  class="col-md-5 col-sm-12 col-xs-12 form-item webform-component webform-component-textarea webform-component--message">
+  <label class="element-invisible" for="edit-submitted-message">Message <span class="form-required" title="This field is required.">*</span></label>
+ <div class="resizable"><textarea required="required" placeholder="Message" id="edit-submitted-message" name="submitted[message]" cols="60" rows="5" class="input-control required"></textarea></div>
+</div>
+      </div>
+        <!-- Send Button -->
+        <div class="form-actions"><input class="ts-bt-contact ts-button" type="submit" name="op" value="Send" /></div>    </div>
+        <div id="result"></div>
+  </div>
+</div>
+
+
+<input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-aGttYVfeWb2mavORPWYJpbgasHPQNYydX-b2qm-8w1I" />
+<input type="hidden" name="form_id" value="webform_client_form_27" />
+</div></form></div>
+        </div>
+  </div>
+</div>          </div>
+      </div>
+</div>
+  </div>
+  </div>
+
+  
+  
+</div>
+	  </div>
+	</div>
+                      </div>
+                    </div>
+    </div>
+  </div>
+    <footer>
+      <div class="container">
+              
+	<div id="block-md-block-custom-mls-footer" class="block block-md-block-custom">
+	  			  		    <ul class="social-footer"><li><a href="#" target="_blank"><i class="icon fontello icon-twitter" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-behance" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-tumblr" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-dribbble" aria-hidden="true"></i></a></li></ul><p class="copyright">COPYRIGHT &copy; Megadrupal 2014</p>	</div>
+
+      </div>
+  </footer>
+
+</div>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20585382-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
+
+<!-- Page cached by Boost @ 2015-10-15 13:24:41, expires @ 2015-10-16 13:24:41, lifetime 1 day -->

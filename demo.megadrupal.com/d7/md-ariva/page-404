@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Ariva</title>
+          <meta name="msapplication-tap-highlight" content="no"/>
+  <meta name="viewport" content="user-scalable=0, width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, minimal-ui"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_FQZzEpZhXHNNERcUUTWWvVJDfl0-5CuDHgGFZRZzsEA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_Yz_Cs_wolH4ArTG-vS6_4QJEtTVSCy0OvY8hoMCsChg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_voMduh-EB0CpYTLTC88LiQ4EahujSoi4dKA0-wB7vqM.css" media="all" />
+
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_yHxtpipowVl8EpjduXvUs2FrKfNRnnfxYrcYvhuIrok.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/css/css_xyzv7XYTlAMc-j_xs5eXslIkF6WDryntL9rl8cRg5Ms.css" media="all" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/css/ie7.css?nv1bkj" media="all" />
+<![endif]-->
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js"></script>
+<script type="text/javascript" src="http://demo.megadrupal.com/d7/md-ariva/sites/default/files/js/js_bPCSa9dWiq7AR-_Tmh6P_ZznTI1RFP1DuQKVYRsDxHw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/d7\/md-ariva\/","pathPrefix":"","ajaxPageState":{"theme":"md_ariva","theme_token":"3zB1id65VJKP5-PV7pnaws-kojd1CgzW5n-sVONXGCY","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/md_themesite\/special\/block_view\/js\/background_content.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.flexslider.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/bootstrap.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.appear.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.cubeportfolio.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.fancybox.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/waypoints.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.h5validate.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.lightSlider.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/modernizr.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/owl.carousel.min.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/select2.js":1,"sites\/all\/themes\/md_ariva\/js\/libs\/jquery.countTo.js":1,"sites\/all\/themes\/md_ariva\/js\/portfolio.js":1,"sites\/all\/themes\/md_ariva\/js\/custom.js":1,"sites\/all\/themes\/md_ariva\/js\/md_ariva.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/fontello\/css\/fontello.fix.css":1,"public:\/\/icon\/fontello\/ariva\/css\/ariva.css":1,"public:\/\/icon\/fontello\/ariva\/css\/animation.css":1,"public:\/\/icon\/fontello\/ariva\/css\/ariva-ie7.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/bootstrap.min.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/cubeportfolio.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/lightSlider.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/owl.carousel.css":1,"sites\/all\/themes\/md_ariva\/css\/libs\/select2.css":1,"sites\/all\/themes\/md_ariva\/css\/style.css":1,"sites\/all\/themes\/md_ariva\/css\/md_ariva.css":1,"sites\/all\/themes\/md_ariva\/css\/md_awecontent.css":1,"sites\/all\/themes\/md_ariva\/css\/ie7.css":1}},"arivaSettings":{"path":"sites\/all\/modules\/custom\/md_ac_ariva"},"flick":{"flick_setting_id":"27838818@N04","flick_setting_numberphoto":"6"},"urlIsAjaxTrusted":{"\/d7\/md-ariva\/page-404":true}});
+//--><!]]>
+</script>
+  <style type="text/css">
+            body {}
+a:link, #node-title a {}
+a:hover, #node-title a:hover {}
+a:visited, #node-title a:visited {}
+a:focus, a:active, #node-title a:focus, #node-title a:active {}
+      </style>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-page-404 " >
+  <div id="loader-wrapper">
+          <div class="preloader loading">
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+            <span class="slice"></span>
+          </div>
+      </div>  
+    
+<div id="page-wrapper">
+  <header class="header-basic" >
+    <div class="main-header">
+     <div class="container">
+                  <div class="logo">
+          <h1><a href="/d7/md-ariva/" title="Home" rel="home" id="logo">
+            <img src="http://demo.megadrupal.com/d7/md-ariva/sites/all/themes/md_ariva/logo.png" alt="Home" />
+          </a></h1>
+        </div>  
+        
+                  <a href="javascript:void(0)" class="menubar menubar-default">
+                  <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <div class="social-top">
+              
+	<div id="block-md-block-custom-mls-header" class="block block-md-block-custom">
+	  			  		    <ul class="social"><li><a href="#" target="_blank"><i class="icon fontello icon-twitter" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-behance" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-dribbble" aria-hidden="true"></i></a></li></ul>	</div>
+
+        </div>
+                  <nav class="ts-default-menu">
+              <ul class="default-nav"><li class="first expanded dropdown"><a href="/d7/md-ariva/" title="">Home</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/full-scrreen-slider">Home Fullscreen Slider</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-freelancer">Home Freelancer</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-video-background">Menu Video Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-pattern-background">Home Pattern Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-background-image">Home Image Background</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-parrallax-slide">Home Parallax Slide Image</a></li>
+<li class="leaf"><a href="/d7/md-ariva/home-dropdown-menu">Home Dropdown Menu</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/menu-hidden-onload">Menu Hidden Onload</a></li>
+</ul></li>
+<li class="leaf"><a href="/d7/md-ariva/#history" title="">History</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#portfolio" title="">Work</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#team" title="">Team</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#pricing-table" title="">Pricing</a></li>
+<li class="leaf"><a href="/d7/md-ariva/#client" title="">Client</a></li>
+<li class="expanded active-trail dropdown active"><a href="/d7/md-ariva/blog" title="" class="active-trail">Blog</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/blog">Blog</a></li>
+<li class="leaf"><a href="/d7/md-ariva/node/1">Single Post</a></li>
+<li class="last leaf active-trail active"><a href="/d7/md-ariva/page-404" title="" class="active-trail active">Page 404</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/d7/md-ariva/product" title="">Shop</a><ul class="dropdown-menu"><li class="first leaf"><a href="/d7/md-ariva/product">Product</a></li>
+<li class="leaf"><a href="/d7/md-ariva/node/9">Product Detail</a></li>
+<li class="last leaf"><a href="/d7/md-ariva/cart" title="">Cart</a></li>
+</ul></li>
+<li class="last leaf"><a href="/d7/md-ariva/#contact" title="">Contact</a></li>
+</ul>          </nav>
+              </div> 
+
+          </div>
+      </header>
+
+    <div id="main-wrapper" class="clearfix">
+      <div class="container">
+        <div class="md-body clearfix">
+                      <div class="page-not-found align_center">
+                <p class="not_found">404</p>
+                <h1>Sorry, Page not found !</h1>
+                <p class="not_content">We're sorry, but the page </br> you were looking for doesn't exist.</p>
+                <p class="back-to">Back to <a href="/d7/md-ariva/">home</a> or <a href="/d7/md-ariva/#contact">contact us</a></p>
+            </div>
+            
+        </div>
+      </div>
+    </div>
+      
+    
+    <footer>
+      <div class="container">
+              
+	<div id="block-md-block-custom-mls-footer" class="block block-md-block-custom">
+	  			  		    <ul class="social-footer"><li><a href="#" target="_blank"><i class="icon fontello icon-twitter" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-behance" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-tumblr" aria-hidden="true"></i></a></li><li><a href="#" target="_blank"><i class="icon fontello icon-dribbble" aria-hidden="true"></i></a></li></ul><p class="copyright">COPYRIGHT &copy; Megadrupal 2014</p>	</div>
+
+      </div>  
+    </footer>
+
+</div>  
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20585382-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
+
+<!-- Page cached by Boost @ 2015-10-14 22:17:21, expires @ 2015-10-15 22:17:21, lifetime 1 day -->
